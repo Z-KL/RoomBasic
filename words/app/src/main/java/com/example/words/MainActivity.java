@@ -1,4 +1,4 @@
-package com.example.roombasic1;
+package com.example.words;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.Observer;
@@ -8,7 +8,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Adapter;
 import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.Switch;
